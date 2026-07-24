@@ -188,7 +188,7 @@ interface Ticket {
 Clonar repositorio:
 
 ```bash
-git clone URL_DEL_REPOSITORIO
+git clone https://github.com/ReyesCidBayron/mini-centro-tickets.git
 ```
 
 Ingresar al proyecto:
